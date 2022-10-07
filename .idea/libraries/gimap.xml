@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gimap">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/javamail-1.4.7/lib/gimap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gimap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
